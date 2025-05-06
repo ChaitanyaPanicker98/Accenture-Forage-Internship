@@ -1,3 +1,5 @@
+**Accenture Navigating Numbers Virtual Experience Program**
+
 ## 🧠 Overview
 
 This repository contains my submission for the **Accenture Navigating Numbers Virtual Experience Program** offered via Forage. Through this internship simulation, I explored the end-to-end responsibilities of a data analyst working on real-world client problems — from understanding project briefs to data analysis and storytelling with visualizations.
@@ -38,13 +40,10 @@ This repository contains my submission for the **Accenture Navigating Numbers Vi
 
 ## 💼 Key Skills Practiced
   
-- Strategic Thinking   
-- Data Cleaning (Pandas, Excel)  
-- Data Modeling  
-- Exploratory Data Analysis  
-- Data Storytelling  
-- Visualization (Power BI)  
-- Presentation & Public Speaking
+- Project Understanding
+- Data Cleaning & Modeling
+- Data Visualization & Storytelling
+- Present to the Client
 
 ---
 
